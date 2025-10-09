@@ -70,7 +70,7 @@ Vibrant International Academy – India | GPA: 3.1
     </td>
     <td align="center" width="50%">
       <h3>⭐ My GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=rajkumarpatel2602&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vrajkumarpatel&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
