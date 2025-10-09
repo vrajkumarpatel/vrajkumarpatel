@@ -1,5 +1,5 @@
 <!-- Profile README for rajkumarpatel2602 -->
-<h1 align="center">Hi 👋, I'm Rajkumar Patel</h1>
+<h1 align="center">Hi 👋, I'm Vrajkumar Patel</h1>
 <h3 align="center">Passionate about technology, customer service, and continuous learning</h3>
 
 ---
