@@ -1,5 +1,4 @@
 <!-- Profile README for rajkumarpatel2602 -->
-![](https://github.com/vrajkumarpatel/vrajkumarpatel/blob/main/welcome1.png?raw=true)
 <h1 align="center">Hi 👋, I'm Rajkumar Patel</h1>
 <h3 align="center">Passionate about technology, customer service, and continuous learning</h3>
 
