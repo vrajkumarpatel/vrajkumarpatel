@@ -27,15 +27,20 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajkumarpatel2602&show_icons=true&theme=default&hide_border=true" alt="Rajkumar's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarpatel2602&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💡 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarpatel2602&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Languages" />
+    </td>
+    <td align="center" width="50%">
+      <h3>⭐ My GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=rajkumarpatel2602&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
