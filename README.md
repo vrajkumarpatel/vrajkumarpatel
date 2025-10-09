@@ -20,6 +20,40 @@
 
 ---
 
+## 🎓 Education
+
+**Bachelor of Science, Computer Science** *(Expected: Aug 2026)*  
+National Louis University – Chicago, IL  
+Transferred from:  
+• University of Wisconsin-Milwaukee  
+• California State University Northridge  
+
+**High School Diploma, Science Stream (2019 – 2021)**  
+SNV International School – India | GPA: 3.2  
+
+**Secondary School Certificate (2018 – 2019)**  
+Vibrant International Academy – India | GPA: 3.1  
+
+---
+
+## 💼 Professional Experience
+
+**Flipkart – Ahmedabad, India**  
+*Logistics Coordinator / Customer Service Assistant*  
+📅 March 2021 – October 2021  
+- Streamlined product sorting by region, improving delivery efficiency by 20%  
+- Coordinated with transport teams to manage factory-to-hub movement of 1,000+ products daily  
+- Resolved 50+ customer issues per day, maintaining 90%+ satisfaction rating  
+
+**School Canteen – Nadiad, India**  
+*Canteen Assistant*  
+📅 June 2019 – May 2021  
+- Managed inventory and food prep operations for 200+ students daily  
+- Operated cashier system and student accounts, reducing transaction errors by 30%  
+- Maintained cleanliness and operational readiness in a fast-paced kitchen environment  
+
+---
+
 ### 🌱 Currently Exploring
 - Web development with modern frameworks  
 - Open-source collaboration and community-driven projects  
@@ -54,6 +88,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ⭐ *“Continuous learning and teamwork are the keys to meaningful innovation.”*
