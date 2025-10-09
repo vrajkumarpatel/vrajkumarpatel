@@ -66,7 +66,7 @@ Vibrant International Academy – India | GPA: 3.1
   <tr>
     <td align="center" width="50%">
       <h3>💡 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumarpatel2602&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajkumarpatel&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Languages" />
     </td>
     <td align="center" width="50%">
       <h3>⭐ My GitHub Stats</h3>
