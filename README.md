@@ -62,10 +62,17 @@ Vibrant International Academy – India | GPA: 3.1
 
 ## 📊 GitHub Overview
 
-![vrajkumarpatel's Stats](https://github-readme-stats.vercel.app/api?username=vrajkumarpatel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![vrajkumarpatel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vrajkumarpatel&theme=vue-dark&hide_border=true)
-![vrajkumarpatel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajkumarpatel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vrajkumarpatel&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vrajkumarpatel&theme=discord_old_blurple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajkumarpatel&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vrajkumarpatel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 
 ### 📫 Connect with Me
 
