@@ -62,18 +62,7 @@ Vibrant International Academy – India | GPA: 3.1
 
 ## 📊 GitHub Overview
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>💡 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajkumarpatel&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Languages" />
-    </td>
-    <td align="center" width="50%">
-      <h3>⭐ My GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=vrajkumarpatel&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+![vrajkumarpatel's Stats](https://github-readme-stats.vercel.app/api?username=vrajkumarpatel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
