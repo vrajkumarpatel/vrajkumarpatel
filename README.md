@@ -21,7 +21,7 @@
 
 ## 🎓 Education
 
-**Bachelor of Science, Computer Science** *(Expected: Aug 2026)*  
+**Bachelor of Science, Computer Science concentration in AI ** *(Expected: Aug 2026)*  
 National Louis University – Chicago, IL  
 Transferred from:  
 • University of Wisconsin-Milwaukee  
