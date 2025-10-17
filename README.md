@@ -1,3 +1,4 @@
+
 <!-- Profile README for rajkumarpatel2602 -->
 <h1 align="center">Hi 👋, I'm Vrajkumar Patel</h1>
 <h3 align="center">Passionate about technology, customer service, and continuous learning</h3>
@@ -35,21 +36,6 @@ Vibrant International Academy – India | GPA: 3.1
 
 ---
 
-## 💼 Professional Experience
-
-**Flipkart – Ahmedabad, India**  
-*Logistics Coordinator / Customer Service Assistant*  
-📅 March 2021 – October 2021  
-- Streamlined product sorting by region, improving delivery efficiency by 20%  
-- Coordinated with transport teams to manage factory-to-hub movement of 1,000+ products daily  
-- Resolved 50+ customer issues per day, maintaining 90%+ satisfaction rating  
-
-**School Canteen – Nadiad, India**  
-*Canteen Assistant*  
-📅 June 2019 – May 2021  
-- Managed inventory and food prep operations for 200+ students daily  
-- Operated cashier system and student accounts, reducing transaction errors by 30%  
-- Maintained cleanliness and operational readiness in a fast-paced kitchen environment  
 
 ---
 
