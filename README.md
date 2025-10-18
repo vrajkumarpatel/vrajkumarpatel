@@ -6,7 +6,7 @@
 
 ### 💡 About Me
 I’m a passionate Computer Science student specializing in **Artificial Intelligence and Machine Learning**, with a strong interest in exploring how intelligent systems can transform real-world applications.  
-Driven by curiosity and innovation, I enjoy solving complex problems, building efficient solutions, and continuously learning new technologies to expand my skill set.
+Driven by curiosity and innovation, I enjoy solving complex problems, building efficient solutions, and continuously learning new technologies to expand my skill set. Visit my portfolio @ https://vrajpatel.info/
 
 ---
 
