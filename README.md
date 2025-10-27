@@ -32,17 +32,7 @@ Driven by curiosity and innovation, I enjoy solving complex problems, building e
 *Expected Graduation: August 2026*  
 National Louis University – Chicago, IL  
 
-**Transferred From:**  
-- University of Wisconsin–Milwaukee  
-- California State University, Northridge  
 
-**High School Diploma, Science Stream (2019–2021)**  
-SNV International School – India | GPA: 3.2  
-
-**Secondary School Certificate (2018–2019)**  
-Vibrant International Academy – India | GPA: 3.1  
-
----
 
 ### 🌱 Currently Exploring
 - Advanced Python for AI-driven projects  
