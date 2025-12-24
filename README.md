@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm Vrajkumar Patel</h1>
 <h3 align="center">
-Computer Science Student (Concentration in Artificial Intelligence) | Software & Web Developer
+Computer Science Student (AI Concentration) | Full-Stack Web & Software Developer | Data Analysis & Automation | Lifelong Learner
 </h3>
 
 ---
