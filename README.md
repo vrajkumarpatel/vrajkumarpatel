@@ -1,77 +1,71 @@
 <!-- Profile README for vrajkumarpatel -->
 <h1 align="center">👋 Hi, I'm Vrajkumar Patel</h1>
-<h3 align="center">Aspiring Computer Scientist | AI & Machine Learning Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Computer Science Student | Software & Web Developer | Data-Focused Problem Solver</h3>
 
 ---
 
 ### 💡 About Me
-I’m a passionate Computer Science student specializing in **Artificial Intelligence and Machine Learning**, with a strong interest in exploring how intelligent systems can transform real-world applications.  
-Driven by curiosity and innovation, I enjoy solving complex problems, building efficient solutions, and continuously learning new technologies to expand my skill set. Visit my portfolio @ https://vrajpatel.info/
+I’m a Computer Science student with a strong interest in building **practical, real-world software** that improves efficiency and supports better decision-making through data.
+
+I enjoy working across **web development, automation, and data analysis**, and I’m especially motivated by projects that have real impact beyond the classroom.  
+🌐 Portfolio: https://vrajpatel.info/
 
 ---
 
 ### 💻 Technical Skills
 
-- **Languages:** Python, Java, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** GitHub, Google Workspace, Microsoft Office Suite, Blackboard  
-- **Core Strengths:** Problem Solving, Team Collaboration, Critical Thinking, Adaptability  
+- **Languages:** Python, Java, JavaScript, SQL, HTML, CSS  
+- **Web & App Development:** React, Node.js, Streamlit  
+- **Data & Analysis:** Pandas, NumPy, Matplotlib, Plotly  
+- **Tools & Platforms:** Git & GitHub, Netlify, SQLite, MySQL  
+- **Core Strengths:** Problem Solving, Collaboration, Clean Code, Adaptability  
 
 ---
 
-### 🧠 Focus Areas & Interests
-- Artificial Intelligence & Machine Learning  
-- Data Science & Automation  
-- Web Development & Cloud Technologies  
-- Open-Source Contribution & Research Projects  
+### 🧠 Areas of Interest
+- Software & Web Development  
+- Data Analysis & Automation  
+- Applied Machine Learning  
+- Open-Source & Real-World Projects  
 
 ---
 
 ## 🎓 Education
-
-**Bachelor of Science in Computer Science (Concentration: Artificial Intelligence)**  
+**Bachelor of Science in Computer Science**  
 *Expected Graduation: August 2026*  
-National Louis University – Chicago, IL  
+National Louis University — Chicago, IL  
 
-
+---
 
 ### 🌱 Currently Exploring
-- Advanced Python for AI-driven projects  
-- Neural Networks and Deep Learning  
-- Modern Web Frameworks (React, Node.js)  
-- Cloud Computing and Scalable Application Design  
+- Building scalable full-stack applications  
+- Data visualization and analytics dashboards  
+- Improving system design and code quality  
 
 ---
 
 ## 📊 GitHub Insights
-
-![](https://github-readme-stats.vercel.app/api?username=vrajkumarpatel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vrajkumarpatel&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajkumarpatel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=vrajkumarpatel&theme=tokyonight&hide_border=false" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=vrajkumarpatel&theme=tokyonight&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajkumarpatel&theme=tokyonight&hide_border=false&layout=compact" />
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vrajkumarpatel&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=vrajkumarpatel&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 
 ---
 
 ### 🤝 Connect with Me
-
 <p align="center">
-  <a href="https://github.com/vrajkumarpatel" target="_blank">
+  <a href="https://github.com/vrajkumarpatel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="(https://www.linkedin.com/in/vrajkumar-patel-87200017b/)" target="_blank">
+  <a href="https://www.linkedin.com/in/vrajkumar-patel-87200017b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ *“Innovation begins with curiosity, fueled by learning, and realized through collaboration.”*
+⭐ <em>Building software that’s clean, useful, and grounded in real-world problems.</em>
