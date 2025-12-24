@@ -1,45 +1,62 @@
 <!-- Profile README for vrajkumarpatel -->
+
 <h1 align="center">👋 Hi, I'm Vrajkumar Patel</h1>
-<h3 align="center">Computer Science Student | Software & Web Developer | Data-Focused Problem Solver</h3>
+<h3 align="center">
+Computer Science Student (Concentration in Artificial Intelligence) | Software & Web Developer
+</h3>
 
 ---
 
 ### 💡 About Me
-I’m a Computer Science student with a strong interest in building **practical, real-world software** that improves efficiency and supports better decision-making through data.
+I’m a Computer Science student with a concentration in **Artificial Intelligence**, focused on building **practical and reliable software** that solves real-world problems.
 
-I enjoy working across **web development, automation, and data analysis**, and I’m especially motivated by projects that have real impact beyond the classroom.  
+I enjoy working across **software development, web technologies, and data analysis**, and I’m continuously improving my skills through hands-on learning and real applications.  
 🌐 Portfolio: https://vrajpatel.info/
 
 ---
 
 ### 💻 Technical Skills
 
-- **Languages:** Python, Java, JavaScript, SQL, HTML, CSS  
-- **Web & App Development:** React, Node.js, Streamlit  
-- **Data & Analysis:** Pandas, NumPy, Matplotlib, Plotly  
-- **Tools & Platforms:** Git & GitHub, Netlify, SQLite, MySQL  
-- **Core Strengths:** Problem Solving, Collaboration, Clean Code, Adaptability  
+**Programming & Development**  
+- Python, Java, JavaScript, HTML, CSS  
+- React, Node.js, Vite  
+- MySQL, SQLite  
+
+**Machine Learning & Data**  
+- TensorFlow, scikit-learn  
+- NumPy, Pandas  
+- Matplotlib, Seaborn  
+
+**Tools & Platforms**  
+- VS Code, PyCharm, Jupyter Notebook, Eclipse  
+- Git, GitHub  
+- Docker, Figma, Slack  
+
+**Soft Skills**  
+- Teamwork, Time Management  
+- Communication, Problem Solving  
 
 ---
 
 ### 🧠 Areas of Interest
 - Software & Web Development  
+- Applied Artificial Intelligence  
 - Data Analysis & Automation  
-- Applied Machine Learning  
-- Open-Source & Real-World Projects  
+- Scalable and Secure Systems  
 
 ---
 
 ## 🎓 Education
 **Bachelor of Science in Computer Science**  
+**Concentration:** Artificial Intelligence  
 *Expected Graduation: August 2026*  
 National Louis University — Chicago, IL  
 
 ---
 
 ### 🌱 Currently Exploring
-- Building scalable full-stack applications  
-- Data visualization and analytics dashboards  
+- Full-stack application development  
+- Data visualization and analytics  
 - Improving system design and code quality  
 
 ---
@@ -48,8 +65,6 @@ National Louis University — Chicago, IL
 <img src="https://github-readme-stats.vercel.app/api?username=vrajkumarpatel&theme=tokyonight&hide_border=false" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=vrajkumarpatel&theme=tokyonight&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajkumarpatel&theme=tokyonight&hide_border=false&layout=compact" />
-
----
 
 ---
 
@@ -65,4 +80,4 @@ National Louis University — Chicago, IL
 
 ---
 
-⭐ <em>Building software that’s clean, useful, and grounded in real-world problems.</em>
+⭐ <em>Focused on learning, building, and improving one project at a time.</em>
