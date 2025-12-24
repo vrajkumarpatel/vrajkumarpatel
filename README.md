@@ -52,7 +52,7 @@ National Louis University — Chicago, IL
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vrajkumarpatel&theme=onedark&no-frame=true&no-bg=true&margin-w=10)
+![vrajkumarpatel trophies](https://github-profile-trophy.vercel.app/?username=vrajkumarpatel&theme=flat&row=1&column=1)
 
 
 ---
