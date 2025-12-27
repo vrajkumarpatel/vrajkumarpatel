@@ -61,7 +61,8 @@ I’m a **Computer Science student** specializing in **Artificial Intelligence**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vrajkumarpatel&show_icons=true&theme=radical&count_private=true" alt="Vrajkumar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajkumarpatel&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajkumarpatel&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
