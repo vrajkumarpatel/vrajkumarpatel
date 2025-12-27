@@ -6,7 +6,7 @@
     <a href="https://vrajpatel.info/">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/vrajkumarpatel/">
+    <a href="[https://www.linkedin.com/in/vrajkumarpatel/](https://www.linkedin.com/in/vrajkumar-patel-87200017b/)">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
     <a href="mailto:vp431030@gmail.com">
