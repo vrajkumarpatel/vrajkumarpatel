@@ -1,86 +1,107 @@
 <div align="center">
-  <h1>Hi there, I'm Vrajkumar Patel 👋</h1>
-  <h3>Computer Science Student (AI Concentration) | Full-Stack Developer | Data Analyst</h3>
 
-  <p>
-    <a href="https://vrajpatel.info/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/vrajkumar-patel-87200017b/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:vp431030@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vrajkumar+Patel;Full+Stack+Developer;AI+%26+ML+Engineer;Open+to+new+opportunities" alt="Typing SVG" />
 
----
+**CS + AI · National Louis University, Chicago · GPA 3.66 · Graduating Jun 2026**
 
-## 💡 About Me
-
-I’m a **Computer Science student** specializing in **Artificial Intelligence** at **National Louis University**, Chicago. I am passionate about building practical, reliable software that solves real-world problems. My expertise spans **Full-Stack Development**, **Data Analysis**, and **Automation**.
-
-- 🔭 I’m currently working on **Full-stack application development & Data visualization**.
-- 🎓 Expected Graduation: **August 2026**.
-- 🌱 I’m currently learning **Advanced System Design**.
-- ⚡ Fun fact: I love automating repetitive tasks to save time!
-
----
-
-## 💻 Technical Arsenal
-
-<div align="center">
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+  <a href="https://vrajpatel.info">
+    <img src="https://img.shields.io/badge/Portfolio-vrajpatel.info-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/vrajkumar-patel-87200017b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vp431030@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vp431030%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## About
+
+Full-stack developer and AI engineer with hands-on experience building production systems — from AI-powered job platforms to real-time animated AI companions. I ship end-to-end: frontend, backend, ML pipelines, and deployment.
+
+Currently seeking full-time roles in **software engineering**, **AI/ML engineering**, or **data science** starting Summer/Fall 2026.
+
+---
+
+## Experience
+
+**Full Stack Software Developer Intern · Squareone** &nbsp;`Jan 2026 – May 2026`
+
+- Led a 4-person team building a full-stack job search platform with React, TypeScript, Django REST Framework, and PostgreSQL
+- Independently designed and shipped AI-powered resume builder, resume review, and automated cover letter generation
+- Engineered backend auth, data modeling, and job management workflows; managed GitHub and supported AWS deployment
+
+---
+
+## Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**ARIA — AI Study Companion**](https://vrajpatel.info) | Real-time Live2D avatar that listens, thinks with an LLM, speaks with synthesized voice, and displays 17 synchronized emotions. Persistent memory via Obsidian vault + BM25. NLU AI Senior Capstone — showcased May 2026. | C# .NET 9 · Python · Groq · ElevenLabs · CUDA 12.8 |
+| [**IDscnr**](https://github.com/vrajkumarpatel/ID_Scnr) | On-premise ID scanning & check-in automation for hospitality — OCR + barcode parsing, DNR checks, PMS export. Reduces check-in to ~3 seconds. | Python · FastAPI · Tesseract · SQLite · Vite |
+| [**Gun Violence Dashboard**](https://gun-violence-dashboard-l3zedtcamrmhu2yx7ekbcv.streamlit.app/) | End-to-end analytics system for Chicago community intervention — CPD data pipeline, risk ranking model, interactive maps and KPIs. | Python · Streamlit · scikit-learn · Pandas |
+| [**Customer Segmentation**](https://vrajkumarpatel-customer-segmentation-dashboard-app-19pydm.streamlit.app/) | RFM analysis + K-Means clustering dashboard to identify high-value, at-risk, and loyal e-commerce customers. | Python · Streamlit · scikit-learn · Plotly |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vrajkumarpatel&show_icons=true&theme=radical&count_private=true" alt="Vrajkumar's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vrajkumarpatel&theme=radical&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vrajkumarpatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajkumarpatel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrajkumarpatel&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=vrajkumarpatel&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <p>⭐ Focused on learning, building, and improving one project at a time.</p>
+  <strong>Open to full-time roles starting Summer / Fall 2026</strong><br/>
+  <a href="https://vrajpatel.info">vrajpatel.info</a> &nbsp;·&nbsp; <a href="mailto:vp431030@gmail.com">vp431030@gmail.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/vrajkumar-patel-87200017b">LinkedIn</a>
 </div>
