@@ -29,6 +29,9 @@ A memory/retrieval backend for an AI study companion: hybrid BM25 + vector + kno
 **[CareerFlow](https://github.com/vrajkumarpatel/CareerFlow)**
 Job-search platform (Django REST Framework, React, PostgreSQL) built during my internship at SquareOne. My contributions: job/application management backend, AI-powered resume and cover-letter generation via Gemini, and the deployment migration to Render/Supabase/Vercel. The admin UI and signup flow were built by teammates.
 
+**[Portfolio Website](https://github.com/vrajkumarpatel/Portfolio_Website)**
+Personal site at [vrajpatel.info](https://vrajpatel.info/) — Next.js, with a 3D interactive skills keyboard (Spline) and GSAP/Framer Motion animation throughout.
+
 **[IDscnr](https://github.com/vrajkumarpatel/ID_Scnr)**
 ID/passport scanning tool for hospitality guest check-in: AAMVA barcode parsing with OCR fallback, AES-256-GCM encrypted local storage, and fuzzy do-not-rent list matching.
 
