@@ -9,7 +9,7 @@
 | IDscnr | Backend / Security | FastAPI, React, Tesseract OCR, AES-256-GCM | Document processing pipelines, encrypted local data storage, Windows systems integration (scanner + PMS autofill) | — | [github.com/vrajkumarpatel/ID_Scnr](https://github.com/vrajkumarpatel/ID_Scnr) |
 | Customer Segmentation Dashboard | Data / Analytics | Python, pandas, scikit-learn, Streamlit | RFM feature engineering, K-Means clustering with defensible model selection, business interpretation of clusters | Local (`streamlit run app.py`) | [github.com/vrajkumarpatel/customer-segmentation-dashboard](https://github.com/vrajkumarpatel/customer-segmentation-dashboard) |
 | Gun Violence Analytics | Data / Analytics | Python, pandas, scikit-learn, Dash/Streamlit | Public-API ETL, exploratory analysis, correlational (not causal) modeling, dashboard delivery | Local (`streamlit run app.py`) | [github.com/vrajkumarpatel/gun-violence-dashboard](https://github.com/vrajkumarpatel/gun-violence-dashboard) |
-| FlowPilot AI | AI Automation | Python, FastAPI, React, n8n, LLM structured output | *Planned — not yet built* | — | — |
+| LeadTriage | AI Automation | FastAPI, React, PostgreSQL, Groq API, n8n | End-to-end automation pipeline design, structured LLM output with validated fallback, workflow-run tracking with retry/audit logging, optional no-code orchestration via n8n | Local (`docker compose up`) | [github.com/vrajkumarpatel/LeadTriage](https://github.com/vrajkumarpatel/LeadTriage) |
 
 ## Notes
 

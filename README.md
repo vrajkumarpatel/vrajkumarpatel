@@ -32,6 +32,9 @@ Job-search platform (Django REST Framework, React, PostgreSQL) built during my i
 **[Portfolio Website](https://github.com/vrajkumarpatel/Portfolio_Website)**
 Personal site at [vrajpatel.info](https://vrajpatel.info/) — Next.js, with a 3D interactive skills keyboard (Spline) and GSAP/Framer Motion animation throughout.
 
+**[LeadTriage](https://github.com/vrajkumarpatel/LeadTriage)**
+AI-powered lead-qualification automation: a webhook intake pipeline (optionally fronted by n8n) into a FastAPI backend that scores and classifies leads via Groq (with a deterministic mock fallback when no API key is set), tracks every workflow run with retry/audit-log history, and surfaces it all in a React dashboard.
+
 **[IDscnr](https://github.com/vrajkumarpatel/ID_Scnr)**
 ID/passport scanning tool for hospitality guest check-in: AAMVA barcode parsing with OCR fallback, AES-256-GCM encrypted local storage, and fuzzy do-not-rent list matching.
 
@@ -54,7 +57,7 @@ More detail on each: [PORTFOLIO-INDEX.md](PORTFOLIO-INDEX.md) · [TECHNOLOGY-MAT
 **AI/ML:** LLM API integration (Groq, Gemini), retrieval-augmented generation, prompt engineering, LlamaIndex, vector databases, TensorFlow, scikit-learn, NumPy, pandas
 **Security:** OWASP principles, authentication & authorization, IDOR prevention, rate limiting, audit logging, PII protection
 **Testing:** Playwright, automated/manual test design and debugging
-**Infra/Tools:** Git, GitHub, Docker, AWS, Supabase, Railway, Render, Vercel, Netlify, Postman, Linux, CI/CD
+**Infra/Tools:** Git, GitHub, Docker, AWS, Supabase, Railway, Render, Vercel, Netlify, Postman, Linux, CI/CD, n8n
 **APIs/Integrations:** Stripe, Twilio, SendGrid, Google Calendar OAuth2
 
 ---
