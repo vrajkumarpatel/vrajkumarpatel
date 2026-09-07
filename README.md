@@ -47,13 +47,15 @@ More detail on each: [PORTFOLIO-INDEX.md](PORTFOLIO-INDEX.md) · [TECHNOLOGY-MAT
 
 ### Skills
 
-**Languages:** Python, TypeScript, JavaScript, SQL
-**Backend:** FastAPI, Django REST Framework, PostgreSQL, token-based auth, REST API design
-**Frontend:** React, Vite, Tailwind CSS
-**AI/LLM:** Groq API, Google Gemini API, retrieval-augmented memory (BM25 + vector + knowledge graph)
-**Data:** pandas, scikit-learn (K-Means, RFM analysis)
-**Security:** IDOR prevention, rate limiting, audit logging
-**Deployment:** Railway, Render, Vercel, Supabase
+**Languages:** Python, Java, JavaScript, TypeScript, C#, SQL, HTML, CSS, Bash/Shell
+**Backend:** FastAPI, Django REST Framework, Node.js, Pydantic, REST API design, token-based auth
+**Frontend:** React, Next.js, Vite, Tailwind CSS
+**Databases:** PostgreSQL, MySQL, SQLite
+**AI/ML:** LLM API integration (Groq, Gemini), retrieval-augmented generation, prompt engineering, LlamaIndex, vector databases, TensorFlow, scikit-learn, NumPy, pandas
+**Security:** OWASP principles, authentication & authorization, IDOR prevention, rate limiting, audit logging, PII protection
+**Testing:** Playwright, automated/manual test design and debugging
+**Infra/Tools:** Git, GitHub, Docker, AWS, Supabase, Railway, Render, Vercel, Netlify, Postman, Linux, CI/CD
+**APIs/Integrations:** Stripe, Twilio, SendGrid, Google Calendar OAuth2
 
 ---
 
