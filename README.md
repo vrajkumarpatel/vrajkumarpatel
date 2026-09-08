@@ -29,6 +29,9 @@ AI-powered lead-qualification automation: a webhook intake pipeline (optionally 
 **[ARIA](https://github.com/vrajkumarpatel/ARIA)**
 A memory/retrieval backend for an AI study companion: hybrid BM25 + vector + knowledge-graph search over a personal notes vault, a rate-limited Groq LLM proxy with retry/backoff, and Google Calendar integration. Drives a third-party Live2D/TTS avatar engine ([fagenorn/handcrafted-persona-engine](https://github.com/fagenorn/handcrafted-persona-engine)) that I configured and integrated — the avatar/voice layer itself is not my code.
 
+**[IntelDocs](https://github.com/vrajkumarpatel/IntelDocs)**
+Document intelligence platform: OCR ingestion, hybrid BM25+vector retrieval with reciprocal rank fusion, local cross-encoder reranking, cited Q&A via Groq, and — the differentiator — a real evaluation pipeline that auto-generates test questions from ingested documents and measures retrieval hit-rate/MRR and answer faithfulness, comparable across retrieval configurations.
+
 **[CareerFlow](https://github.com/vrajkumarpatel/CareerFlow)**
 Job-search platform (Django REST Framework, React, PostgreSQL) built during my internship at SquareOne. My contributions: job/application management backend, AI-powered resume and cover-letter generation via Gemini, and the deployment migration to Render/Supabase/Vercel. The admin UI and signup flow were built by teammates.
 

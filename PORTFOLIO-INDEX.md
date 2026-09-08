@@ -10,6 +10,7 @@
 | Customer Segmentation Dashboard | Data / Analytics | Python, pandas, scikit-learn, Streamlit | RFM feature engineering, K-Means clustering with defensible model selection, business interpretation of clusters | Local (`streamlit run app.py`) | [github.com/vrajkumarpatel/customer-segmentation-dashboard](https://github.com/vrajkumarpatel/customer-segmentation-dashboard) |
 | Gun Violence Analytics | Data / Analytics | Python, pandas, scikit-learn, Dash/Streamlit | Public-API ETL, exploratory analysis, correlational (not causal) modeling, dashboard delivery | Local (`streamlit run app.py`) | [github.com/vrajkumarpatel/gun-violence-dashboard](https://github.com/vrajkumarpatel/gun-violence-dashboard) |
 | LeadTriage | AI Automation | FastAPI, React, PostgreSQL, Groq API, n8n | End-to-end automation pipeline design, structured LLM output with validated fallback, workflow-run tracking with retry/audit logging, optional no-code orchestration via n8n | Local (`docker compose up`) | [github.com/vrajkumarpatel/LeadTriage](https://github.com/vrajkumarpatel/LeadTriage) |
+| IntelDocs | AI Agents / RAG / AI Infrastructure | FastAPI, React, PostgreSQL/pgvector, Redis/ARQ, Groq API, local embeddings + reranking | Hybrid BM25+vector retrieval with reciprocal rank fusion, local reranking, cited Q&A with validated citations, and a real evaluation pipeline measuring retrieval hit-rate/MRR and answer faithfulness | Local (`docker compose up`) | [github.com/vrajkumarpatel/IntelDocs](https://github.com/vrajkumarpatel/IntelDocs) |
 
 ## Notes
 
